@@ -1,0 +1,4 @@
+jobs:
+  first_job:    
+    steps:
+    - uses: actions/stale@v1
