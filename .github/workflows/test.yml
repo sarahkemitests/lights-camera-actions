@@ -1,0 +1,13 @@
+name: Testing all types of dependencies
+
+jobs:
+   first_job:
+    steps:
+      - name: My first step
+        uses: actions/aws@v2.0.1
+      - name: My second step
+        uses: actions/checkout@v2.4.0
+      - name: My third step
+        uses: actions/labeler@v3.0.2
+      - name: My fourth step
+        uses: actions/cache@v2.1.7
