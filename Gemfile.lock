@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    actioncable (6.0.4.6)
+    actioncable (6.0.4.5)
       actionpack (= 6.0.4.6)
       nio4r (~> 2.0)
       websocket-driver (>= 0.6.1)
@@ -51,7 +51,7 @@ GEM
       activesupport (= 6.0.4.6)
     activerecord-import (1.0.2)
       activerecord (>= 3.2)
-    activestorage (6.0.4.6)
+    activestorage (6.0.4.5)
       actionpack (= 6.0.4.6)
       activejob (= 6.0.4.6)
       activerecord (= 6.0.4.6)
@@ -62,7 +62,7 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
       zeitwerk (~> 2.2, >= 2.2.2)
-    addressable (2.8.0)
+    addressable (2.8.1)
       public_suffix (>= 2.0.2, < 5.0)
     apollo_upload_server (2.0.1)
       graphql (>= 1.8)
