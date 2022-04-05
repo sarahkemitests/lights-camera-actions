@@ -51,7 +51,7 @@ GEM
       activesupport (= 6.0.4.6)
     activerecord-import (1.0.2)
       activerecord (>= 3.2)
-    activestorage (6.0.4.6)
+    activestorage (6.0.4.5)
       actionpack (= 6.0.4.6)
       activejob (= 6.0.4.6)
       activerecord (= 6.0.4.6)
